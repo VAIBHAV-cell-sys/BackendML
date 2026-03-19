@@ -1,0 +1,148 @@
+{
+  "locations": {
+    "Delhi": {
+      "soil_type": "Alluvial",
+      "pH": 7.2,
+      "fertility": "High",
+      "nitrogen": "Medium",
+      "phosphorus": "High",
+      "potassium": "Medium",
+      "organic_matter": 2.1
+    },
+    "Mumbai": {
+      "soil_type": "Laterite",
+      "pH": 5.8,
+      "fertility": "Medium",
+      "nitrogen": "Low",
+      "phosphorus": "Medium",
+      "potassium": "Low",
+      "organic_matter": 1.5
+    },
+    "Bangalore": {
+      "soil_type": "Red Soil",
+      "pH": 6.5,
+      "fertility": "Medium",
+      "nitrogen": "Medium",
+      "phosphorus": "Low",
+      "potassium": "Medium",
+      "organic_matter": 1.8
+    },
+    "Pune": {
+      "soil_type": "Black Soil",
+      "pH": 7.8,
+      "fertility": "High",
+      "nitrogen": "High",
+      "phosphorus": "Medium",
+      "potassium": "High",
+      "organic_matter": 2.5
+    },
+    "Jaipur": {
+      "soil_type": "Arid Soil",
+      "pH": 8.1,
+      "fertility": "Low",
+      "nitrogen": "Low",
+      "phosphorus": "Low",
+      "potassium": "Medium",
+      "organic_matter": 0.8
+    },
+    "Hyderabad": {
+      "soil_type": "Red Soil",
+      "pH": 6.8,
+      "fertility": "Medium",
+      "nitrogen": "Medium",
+      "phosphorus": "Medium",
+      "potassium": "Low",
+      "organic_matter": 1.6
+    },
+    "Chennai": {
+      "soil_type": "Laterite",
+      "pH": 6.2,
+      "fertility": "Medium",
+      "nitrogen": "Low",
+      "phosphorus": "Medium",
+      "potassium": "Medium",
+      "organic_matter": 1.4
+    },
+    "Kolkata": {
+      "soil_type": "Alluvial",
+      "pH": 7.0,
+      "fertility": "High",
+      "nitrogen": "High",
+      "phosphorus": "High",
+      "potassium": "Medium",
+      "organic_matter": 2.3
+    },
+    "Lucknow": {
+      "soil_type": "Alluvial",
+      "pH": 7.5,
+      "fertility": "High",
+      "nitrogen": "High",
+      "phosphorus": "Medium",
+      "potassium": "High",
+      "organic_matter": 2.4
+    },
+    "Patna": {
+      "soil_type": "Alluvial",
+      "pH": 7.3,
+      "fertility": "High",
+      "nitrogen": "High",
+      "phosphorus": "High",
+      "potassium": "Medium",
+      "organic_matter": 2.2
+    },
+    "Ahmedabad": {
+      "soil_type": "Black Soil",
+      "pH": 7.9,
+      "fertility": "High",
+      "nitrogen": "Medium",
+      "phosphorus": "High",
+      "potassium": "High",
+      "organic_matter": 2.0
+    },
+    "Chandigarh": {
+      "soil_type": "Alluvial",
+      "pH": 7.4,
+      "fertility": "High",
+      "nitrogen": "High",
+      "phosphorus": "Medium",
+      "potassium": "Medium",
+      "organic_matter": 2.0
+    },
+    "Indore": {
+      "soil_type": "Black Soil",
+      "pH": 8.0,
+      "fertility": "High",
+      "nitrogen": "High",
+      "phosphorus": "Medium",
+      "potassium": "High",
+      "organic_matter": 2.3
+    },
+    "Nagpur": {
+      "soil_type": "Black Soil",
+      "pH": 7.6,
+      "fertility": "High",
+      "nitrogen": "Medium",
+      "phosphorus": "High",
+      "potassium": "High",
+      "organic_matter": 2.1
+    },
+    "Bhopal": {
+      "soil_type": "Black Soil",
+      "pH": 7.7,
+      "fertility": "High",
+      "nitrogen": "Medium",
+      "phosphorus": "Medium",
+      "potassium": "High",
+      "organic_matter": 1.9
+    }
+  },
+  "default": {
+    "soil_type": "Mixed",
+    "pH": 7.0,
+    "fertility": "Medium",
+    "nitrogen": "Medium",
+    "phosphorus": "Medium",
+    "potassium": "Medium",
+    "organic_matter": 1.5
+  }
+}
